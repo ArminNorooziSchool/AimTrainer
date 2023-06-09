@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background: #222;
+  margin-top: 50px;
+}
+
+#start-button {
+  font-size: 24px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}
+
+#score-container {
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: lightblue;
+}
+
+canvas {
+  border: 1px solid white;
+}
